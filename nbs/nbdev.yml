@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-hi"
+  site-url: "https://st01cs.github.io/nbdev-hi"
+  description: "learn to use nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/st01cs/nbdev-hi"
